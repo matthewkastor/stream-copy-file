@@ -1,0 +1,44 @@
+{
+  "name": "stream-copy-file",
+  "version": "0.1.0",
+  "description": "Node module to copy files like copy /b on windows",
+  "main": "./src/stream-copy-file.js",
+  "directories": {
+    "lib": "src",
+    "doc": "docs",
+    "example": "examples"
+  },
+  "devDependencies": {
+    "jsdoc-toolkit": "git+https://github.com/matthewkastor/node-jsdoc-toolkit.git#fix-tests",
+    "jasmine-node": ">=1.11.0",
+    "atropa-jslint": ">=0.1.1"
+  },
+  "scripts": {
+    "test": "jasmine-node specs/",
+    "buildDocs": "jsdoc-toolkit -v -d=./docs/jsdoc/ -r -s src/",
+    "lint" : "atropa-jslint ./src/stream-copy-file.js"
+  },
+  "homepage": "https://github.com/matthewkastor/stream-copy-file/",
+  "bugs": "https://github.com/matthewkastor/stream-copy-file/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthewkastor/stream-copy-file.git"
+  },
+  "keywords": [
+    "fs",
+    "copy",
+    "stream-copy-file",
+    "atropa"
+  ],
+  "author": {
+    "name": "Matthew Kastor",
+    "email": "matthewkastor@gmail.com",
+    "url": "https://plus.google.com/100898583798552211130"
+  },
+  "licenses": [
+    {
+      "type": "gpl-3.0",
+      "url": "http://www.gnu.org/licenses/gpl-3.0-standalone.html"
+    }
+  ]
+}

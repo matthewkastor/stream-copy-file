@@ -1,0 +1,18 @@
+ > JsDoc Toolkit main() running at Thu Sep 19 2013 23:03:06 GMT-0400 (Eastern Daylight Time).
+ > With options: 
+ >     _: src/
+ >     d: ./docs/jsdoc/
+ >     o: ./logs/jsdoc.log
+ >     p: true
+ >     s: true
+ >     t: C:\Users\kastor\Desktop\experiments\stream-copy-file\node_modules\jsdoc-toolkit\templates\jsdoc/
+ > Output directory set to './docs/jsdoc/'.
+ > JsDoc Toolkit main() running at Thu Sep 19 2013 23:04:24 GMT-0400 (Eastern Daylight Time).
+ > With options: 
+ >     _: src/
+ >     d: ./docs/jsdoc/
+ >     o: ./logs/jsdoc.log
+ >     p: true
+ >     s: true
+ >     t: C:\Users\kastor\Desktop\experiments\stream-copy-file\node_modules\jsdoc-toolkit\templates\jsdoc/
+ > Output directory set to './docs/jsdoc/'.
